@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="680" viewBox="0 0 800 680" fill="none">
+  <title>Finding patterns in data</title>
+  <desc>A minimal illustrative scatter plot with cobalt data points and a dotted trend line on a lime background. No measured results are represented.</desc>
+  <rect width="800" height="680" fill="#DCF673"/>
+  <g stroke="#3047D8" stroke-width="1" opacity=".12">
+    <path d="M138 198H662M138 284H662M138 370H662M138 456H662"/>
+    <path d="M226 154V528M314 154V528M402 154V528M490 154V528M578 154V528"/>
+  </g>
+  <g stroke="#3047D8" stroke-width="1.5" opacity=".45">
+    <path d="M138 154V528H662"/>
+    <path d="M132 198H138M132 284H138M132 370H138M132 456H138M226 528V534M314 528V534M402 528V534M490 528V534M578 528V534"/>
+  </g>
+  <path d="M165 484C278 451 344 393 429 329S556 222 638 181" stroke="#3047D8" stroke-width="2" stroke-dasharray="5 9" stroke-linecap="round" opacity=".65"/>
+  <g fill="#3047D8">
+    <circle cx="177" cy="453" r="6"/>
+    <circle cx="198" cy="491" r="4"/>
+    <circle cx="218" cy="428" r="8"/>
+    <circle cx="245" cy="469" r="5"/>
+    <circle cx="269" cy="413" r="5"/>
+    <circle cx="296" cy="436" r="9"/>
+    <circle cx="321" cy="366" r="6"/>
+    <circle cx="348" cy="408" r="4"/>
+    <circle cx="367" cy="354" r="7"/>
+    <circle cx="389" cy="383" r="5"/>
+    <circle cx="421" cy="312" r="9"/>
+    <circle cx="443" cy="351" r="5"/>
+    <circle cx="467" cy="280" r="6"/>
+    <circle cx="491" cy="316" r="4"/>
+    <circle cx="516" cy="247" r="8"/>
+    <circle cx="542" cy="275" r="5"/>
+    <circle cx="567" cy="207" r="5"/>
+    <circle cx="612" cy="192" r="8"/>
+  </g>
+  <g fill="#3047D8" opacity=".25">
+    <circle cx="194" cy="388" r="4"/>
+    <circle cx="255" cy="358" r="5"/>
+    <circle cx="300" cy="489" r="4"/>
+    <circle cx="350" cy="300" r="5"/>
+    <circle cx="404" cy="443" r="4"/>
+    <circle cx="474" cy="202" r="4"/>
+    <circle cx="539" cy="363" r="5"/>
+    <circle cx="613" cy="302" r="4"/>
+  </g>
+  <circle cx="580" cy="237" r="20" stroke="#3047D8" stroke-width="1.5" opacity=".3"/>
+  <circle cx="580" cy="237" r="8" fill="#3047D8"/>
+  <g stroke="#3047D8" stroke-width="1.5" stroke-linecap="round">
+    <path d="M138 103H156M147 94V112"/>
+    <path d="M635 106H662"/>
+  </g>
+  <text x="173" y="108" fill="#3047D8" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.5">LEARNING THROUGH PROJECTS</text>
+  <text x="139" y="568" fill="#3047D8" opacity=".5" font-family="Arial, Helvetica, sans-serif" font-size="9" letter-spacing="1.8">TURNING DATA INTO MEANINGFUL INSIGHTS.</text>
+</svg>
