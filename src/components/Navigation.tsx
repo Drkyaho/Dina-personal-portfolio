@@ -40,7 +40,7 @@ export function Navigation() {
           aria-label="MyPortofolio home"
           style={{ backgroundColor: "transparent", transition: "color 0.3s" }}
         >
-          <Icon name="spark" size={26} /> MyPortofolio
+          <Icon name="spark" size={26} /> MyPortfolio
         </a>
         <div className={`nav-links ${open ? "is-open" : ""}`} id="navigation">
           {navigation.map((label, i) => (
