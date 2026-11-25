@@ -1,0 +1,14 @@
+{
+  "description": "A responsive portfolio for an aspiring data professional to showcase education, experience, projects, awards, certificates, skills, and contact information.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  },
+  "title": "Yourfolio \u2014 An aspiring data professional",
+  "icons": {
+    "icon": "./favicon.svg"
+  }
+}
