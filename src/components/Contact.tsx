@@ -254,7 +254,7 @@ export function Contact() {
       </section>
       <footer>
         <a href="#home" className="wordmark">
-          <Icon name="spark" size={24} /> MyPortofolio
+          <Icon name="spark" size={24} /> MyPortfolio
         </a>
         <p>
           © {new Date().getFullYear()} {profile.name}. A personal portfolio, always evolving.
